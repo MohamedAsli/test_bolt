@@ -1,0 +1,19 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact/
+  - title: "Portfolio"
+    url: /portfolio/
+
+docs:
+  - title: "HOME"
+    url: /
+  - title: "Développement"
+    children:
+      - title: "Python/pyRevit"
+        url: /_pages/python/
+      - title: "Dynamo"
+        url: /docs/dynamo/
